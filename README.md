@@ -7,6 +7,8 @@ The task is to predict the percentage of marks that a student is expected to sco
 Dataset Link : https://rb.gy/ccublq
 <br><br>
 The aim was to predict score if a student studies for 9.25 hrs/day. The performance of the algorithm was measured using Mean Absolute Error. The Mean Absolute Error observed was around 4.18.
+<br><br>
+Watch on Youtube: https://youtu.be/q9v6-PpURfs
 
 ## Task-2 : Prediction using Unsupervised ML.
 The aim is to predict the optimum number of clusters and represent it visually based on given dataset.

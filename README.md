@@ -16,3 +16,5 @@ The aim is to predict the optimum number of clusters and represent it visually b
 Dataset Link : https://rb.gy/rb1yid
 <br><br>
 A classifier was built using K-means clustering. Appropriate graphs were plotted.
+<br><br>
+Watch on Youtube: https://youtu.be/hBE-HLp7tPU

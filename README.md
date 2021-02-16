@@ -8,7 +8,7 @@ Dataset Link : https://rb.gy/ccublq
 <br><br>
 The aim was to predict score if a student studies for 9.25 hrs/day. The performance of the algorithm was measured using Mean Absolute Error. The Mean Absolute Error observed was around 4.18.
 <br><br>
-Watch on Youtube: https://youtu.be/q9v6-PpURfs
+Watch on Youtube: https://youtu.be/ylsXELd5xwo
 
 ## Task-2 : Prediction using Unsupervised ML.
 The aim is to predict the optimum number of clusters and represent it visually based on given dataset.
@@ -17,4 +17,4 @@ Dataset Link : https://rb.gy/rb1yid
 <br><br>
 A classifier was built using K-means clustering. Appropriate graphs were plotted.
 <br><br>
-Watch on Youtube: https://youtu.be/hBE-HLp7tPU
+Watch on Youtube: https://youtu.be/SKGgHoM_vtg
